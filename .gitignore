@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+pgdata/
+pglog/
+server/uploads/*
+!server/uploads/.gitkeep
+*.log
+.DS_Store
+coverage/
+*.tsbuildinfo
